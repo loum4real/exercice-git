@@ -4,4 +4,4 @@ Bienvenue dans mon premier dépôt Git !
 Apprendre Git pas à pas.
 
 ## Auteur
-Aliou Touré - L3 GLSI
+Aliou Loum - L3 GLSI
